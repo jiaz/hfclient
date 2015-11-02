@@ -1,0 +1,20 @@
+{
+  "name": "hfclient",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^5.8.23",
+    "bluebird": "^2.10.2",
+    "lodash": "^3.10.1",
+    "prompt": "^0.2.14",
+    "request": "^2.65.0",
+    "socket.io-client": "git+https://github.com/socketio/socket.io-client.git",
+    "socket.io-stream": "git+https://github.com/nkzawa/socket.io-stream.git"
+  }
+}
